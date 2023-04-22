@@ -1,0 +1,45 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.header {
+    background-color: #1F2937;
+    color: white;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;  
+    color: white;
+}
+
+.links {
+    display: flex;
+    gap: 15px;
+}
+
+.header-body {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-body-left {
+
+}
