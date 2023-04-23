@@ -68,7 +68,7 @@ a {
     justify-content: flex-start;
 }
 
-.button1, .actionbutton {
+.button1, .button2 {
     padding-top: 15px;
     border-radius: 5px;
     border: 1px solid #000;
@@ -171,4 +171,9 @@ a {
     padding: 20px;
     margin: 0;
     border: 0px;
+}
+
+.actionbox.actionbutton.button2 {
+    border-color: #E5E7EB;
+    border: 1px solid #E5E7EB;
 }
